@@ -99,7 +99,7 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 
 <h3>4. Write a Report on the Neural Network Model</h3>
 
-Link to Written Report can be found here: [insert link to Google Sheet]
+Link to the written report can be found here: [insert link to Google Sheet]
 
 - Write an analysis that includes a title and multiple sections, labeled with headers and subheaders
 
